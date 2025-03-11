@@ -6,7 +6,7 @@ _  ______   _____ _____ _____ _   _
 |_|\_\____|   |_| |_____\____|_| |_|
 
 ANYWAY, YOU MUST GIVE CREDIT TO MY CODE WHEN COPY IT
-CONTACT ME HERE +237656520674
+CONTACT ME HERE +923200344390 
 YT: KermHackTools
 Github: Kgtech-cmr
 */
@@ -37,6 +37,6 @@ CURRENT_STATUS: process.env.CURRENT_STATUS || "true",
 AUTO_REACT: process.env.AUTO_REACT || "false",
 HEART_REACT: process.env.HEART_REACT || "false",
 OWNER_REACT: process.env.OWNER_REACT || "false",
-BOT_NAME: process.env.BOT_NAME || "『𝗞𝗘𝗥𝗠 𝗠𝗗 𝗩1』",
+BOT_NAME: process.env.BOT_NAME || "KERM-MD-V1~XcgkCaaA#qiUHfNF0gx_k4M-nx_kgBOa_csWBwXOB07SHW3q-pHo",
 OMDB_API_KEY: process.env.OMDB_API_KEY || "76cb7f39", // omdbapi.com
 };
